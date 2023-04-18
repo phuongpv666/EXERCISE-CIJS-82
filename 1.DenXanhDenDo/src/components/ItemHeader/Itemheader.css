@@ -1,0 +1,14 @@
+
+
+.Itemheader {
+  display: flex;
+  /* justify-content: flex-start;
+  align-items: center;; */
+  color: #002D69;
+  text-decoration: none !important;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 43,2px;
+  margin-bottom: 49px;
+  padding-left: 0px;
+}

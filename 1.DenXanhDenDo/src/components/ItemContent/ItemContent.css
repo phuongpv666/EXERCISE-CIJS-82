@@ -1,0 +1,33 @@
+
+.ItemContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 72px;
+  /* width: 1444px; */
+
+}
+
+.ItemContent1 {
+  width: 80%;
+  height: auto;
+}
+
+.ItemContent1 img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+
+.ItemContent2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 50px;
+  color: #002D69;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21.6px;
+}
+
